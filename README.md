@@ -120,20 +120,6 @@ I'm particularly interested in understanding what happens **below the applicatio
 </a>
 </p>
 
----
-
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityamishra5214&show_icons=true&locale=en" alt="Aditya Mishra GitHub Stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamishra5214&show_icons=true&locale=en&layout=compact" alt="Aditya Mishra Top Languages"/>
-</p>
-
----
-
 <p align="center">
 <i>"It takes time from 0 → 1."</i>
 </p>
